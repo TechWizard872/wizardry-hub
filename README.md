@@ -1,7 +1,7 @@
 # wizardry-hub
 TechWizard872’s digital spellbook: a playground for experimentation, tinkering, and software sorcery. From prototypes to full-fledged tools, all crafted with passion and curiosity.
-HOw code a Simple Ping Pong Game-------->
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HOw code a Simple Ping Pong Game-------->
 <TechWizard872'Simple Ping Pong game.html>
 <html lang="en">
 <head>
